@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+    <figures>
+        <figure ID="0" height="50" name="C" rgb="-16776961" width="50" x="255" y="175"/>
+        <figure ID="1" height="50" name="C" rgb="-16776961" width="50" x="375" y="175"/>
+        <figure ID="2" height="40" name="H" rgb="-16751616" width="40" x="260" y="260"/>
+        <figure ID="3" height="40" name="H" rgb="-16751616" width="40" x="180" y="180"/>
+        <figure ID="4" height="40" name="H" rgb="-16751616" width="40" x="260" y="100"/>
+        <figure ID="5" height="60" name="O" rgb="-3355393" width="60" x="450" y="250"/>
+        <figure ID="6" height="40" name="H" rgb="-16751616" width="40" x="560" y="260"/>
+        <figure ID="7" height="60" name="O" rgb="-3355393" width="60" x="450" y="90"/>
+    </figures>
+    <ligaments>
+        <ligament covalence="false" figureII_ID="2" figureI_ID="0"/>
+        <ligament covalence="false" figureII_ID="4" figureI_ID="0"/>
+        <ligament covalence="false" figureII_ID="3" figureI_ID="0"/>
+        <ligament covalence="false" figureII_ID="1" figureI_ID="0"/>
+        <ligament covalence="false" figureII_ID="5" figureI_ID="1"/>
+        <ligament covalence="false" figureII_ID="6" figureI_ID="5"/>
+        <ligament covalence="true" figureII_ID="1" figureI_ID="7"/>
+    </ligaments>
+</data>

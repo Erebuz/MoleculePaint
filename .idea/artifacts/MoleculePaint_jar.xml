@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MoleculePaint:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MoleculePaint_jar</output-path>
+    <root id="archive" name="MoleculePaint.jar">
+      <element id="module-output" name="MoleculePaint" />
+    </root>
+  </artifact>
+</component>
